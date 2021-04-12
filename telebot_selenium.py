@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 from time import sleep
 
-token = '1736982389:AAH8BhhcRC9JfTw1FCAJNQ9nnxtgqc89MWk'
+token = ''
 bot = telebot.TeleBot(token)
 welcome_text = "Привет! Качество воздуха в указанном городе сейчас: "
 
